@@ -52,7 +52,7 @@
    In the "Environment" section, add these variables:
    
    ```
-   MONGODB_URI = mongodb+srv://Admin-Ayush:Ayush0987@cluster0.24zm0wj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+   MONGODB_URI = mongodb+srv://Admin-Ayush:@cluster0.24zm0wj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
    DATABASE_NAME = ecommerce
    DEBUG = false
    HOST = 0.0.0.0
