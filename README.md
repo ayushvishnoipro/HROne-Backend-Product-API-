@@ -62,7 +62,8 @@ curl -X POST "https://hrone-backend-product-api.onrender.com/api/v1/products" \
 
 **Screenshot Placeholder**:
 ```
-[Screenshot: Create Product - Swagger UI Interface]
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/ede80d3e-e6b0-42f9-9533-543c7bb4b89b" />
+<img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/964a92bc-71f3-458a-8d21-449f8f7e47f7" />
 ```
 
 ---
