@@ -2,7 +2,10 @@
 # Exit on error
 set -o errexit
 
-# Install dependencies
-pip install -r requirements.txt
+# Upgrade pip first
+pip install --upgrade pip
+
+# Install dependencies with verbose output
+pip install --no-cache-dir --verbose -r requirements.txt
 
 echo "Build completed successfully!"
