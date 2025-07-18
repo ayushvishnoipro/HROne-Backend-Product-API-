@@ -18,6 +18,8 @@ Welcome to the E-commerce API! This guide will walk you through testing each API
 | GET | `/api/v1/products` | Get all products with filtering |
 | POST | `/api/v1/orders` | Create a new order |
 | GET | `/api/v1/orders/{user_id}` | Get orders for a specific user |
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/4e7cdb6c-0e6a-4cb6-8a46-72ceb123fa9f" />
+
 
 ---
 
