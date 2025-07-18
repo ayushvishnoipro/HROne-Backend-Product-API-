@@ -85,23 +85,30 @@ curl "https://hrone-backend-product-api.onrender.com/api/v1/products?size=large&
 {
   "products": [
     {
-      "name": "Premium T-Shirt",
+      "name": "T-shirt",
       "size": "large",
       "price": 299.99,
-      "quantity": 50,
-      "id": "60f7b3b3b3b3b3b3b3b3b3b3"
+      "quantity": 20,
+      "_id": "687a825c2f0645e8313cf8ac"
+    },
+    {
+      "name": "Denim Jeans",
+      "size": "large",
+      "price": 899.5,
+      "quantity": 25,
+      "_id": "687a832b2f0645e8313cf8ae"
     }
   ],
-  "total": 1,
+  "total": 2,
   "offset": 0,
   "limit": 10
 }
 ```
 
 **Screenshot Placeholder**:
-```
-[Screenshot: Get Products - Response showing product list]
-```
+<img width="1919" height="792" alt="image" src="https://github.com/user-attachments/assets/87387a07-acfa-4e69-a187-f904b6195b62" />
+<img width="1919" height="801" alt="image" src="https://github.com/user-attachments/assets/bd05db7c-a010-4c38-b647-556a423fdce6" />
+
 
 ---
 
@@ -159,9 +166,10 @@ curl -X POST "https://hrone-backend-product-api.onrender.com/api/v1/orders" \
 ```
 
 **Screenshot Placeholder**:
-```
-[Screenshot: Create Order - Swagger UI showing order creation]
-```
+<img width="1660" height="785" alt="image" src="https://github.com/user-attachments/assets/e9415bf0-ccfd-44f6-836b-dfabafdfec80" />
+<img width="1864" height="810" alt="image" src="https://github.com/user-attachments/assets/1d507eb5-f7a3-4891-81d7-8a369ae7dbda" />
+
+
 
 ---
 
@@ -211,9 +219,10 @@ curl "https://hrone-backend-product-api.onrender.com/api/v1/orders/user123?limit
 ```
 
 **Screenshot Placeholder**:
-```
-[Screenshot: Get User Orders - Response showing user's order history]
-```
+<img width="1919" height="700" alt="image" src="https://github.com/user-attachments/assets/43b839b0-f2e0-49a1-ba07-8d8f50f2c949" />
+<img width="1916" height="825" alt="image" src="https://github.com/user-attachments/assets/64f104ce-ea67-4e53-a783-8060f99b6279" />
+
+
 
 ---
 
